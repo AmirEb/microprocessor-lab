@@ -1,0 +1,2 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"mp-lab-a2.c" LINE:94
+timer1_ovf_isr DSTACK_USAGE:6 DSTACK_LEVEL:6 FILE:"mp-lab-a2.c" LINE:64

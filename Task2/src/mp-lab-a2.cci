@@ -1,0 +1,13 @@
+VERSION:3 SOURCE_TIMESTAMP:519B1F30
+NODE:I LEVEL:0 LINE:23 "E:\cvavr\inc\mega16.h"
+NODE:I LEVEL:0 LINE:24 "E:\cvavr\inc\delay.h"
+NODE:V LEVEL:0 LINE:26 "temp -> R4,R5"
+NODE:V LEVEL:0 LINE:27 "SevenSegNumber -> RAM:????"
+NODE:V LEVEL:0 LINE:32 "Timer0OverFlowCounter -> R6,R7"
+NODE:V LEVEL:0 LINE:33 "Timer1OverFlowCounter -> R8,R9"
+NODE:V LEVEL:0 LINE:34 "SevenSegCounter -> RAM:????"
+NODE:V LEVEL:0 LINE:35 "i -> R10,R11"
+NODE:V LEVEL:0 LINE:36 "lastSevenSeg -> R12,R13"
+NODE:F LEVEL:0 LINE:38 "timer0_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:64 "timer1_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:94 "main(void)"
