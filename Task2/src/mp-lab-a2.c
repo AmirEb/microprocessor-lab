@@ -2,7 +2,7 @@
 This program was created by the
 CodeWizardAVR V3.12 Advanced
 Automatic Program Generator
-© Copyright 1998-2014 Pavel Haiduc, HP InfoTech s.r.l.
+Â© Copyright 1998-2014 Pavel Haiduc, HP InfoTech s.r.l.
 http://www.hpinfotech.com
 
 Project : task2
@@ -11,8 +11,6 @@ Date    : 12/24/2020
 Author  : Amir Ebrahimian
 Company : 
 Comments: 
-
-
 Chip type               : ATmega16
 Program type            : Application
 AVR Core Clock frequency: 8.000000 MHz
@@ -77,23 +75,14 @@ interrupt [TIM1_OVF] void timer1_ovf_isr(void)
             }
              i--;
          }
-
-
                    i=3;
              Timer1OverFlowCounter=0;
-
     }
-
-
         TCNT1H=0xFF;
         TCNT1L=0xF0;
-
 }
-
-
 void main(void)
 {
-
 DDRD=0b11111111;
 PORTD=0b00000000;
 DDRC=0b11111111;
